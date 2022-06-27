@@ -1,0 +1,22 @@
+{
+"bannerData": {
+"rightbanner" : [
+    {"heading": "Automated Testing",
+    "subHeading": "Perform automated browser tests on a scalable, secure, and reliable automation cloud. Run Selenium, Cypress, Appium, Hyperexecute, Playwright and Puppeteer tests at scale on 3000+ browsers and devices.",
+    "url": "/static/media/writing_sample.svg"
+    },
+    {"heading": "HyperExecute",
+    "subHeading": "Blazing fast test execution on cloud that will beat your local test execution speeds. A LambdaTest exclusive platform that is guaranteed faster than any other cloud grid offering."},
+    {"heading": "Live Testing",
+        "subHeading": "Perform live interactive cross browser testing of your public or locally hosted websites and web apps on 3000+ real mobile and desktop browsers running on real operating system."},
+        {"heading": "Mobile App Testing",
+            "subHeading": "Perform live interactive testing of your mobile apps on a multitude of Android and iOS devices. Test and debug your mobile apps faster on both Emulators/Simulators or online real device cloud."},
+    {"heading": "Test at Scale",
+    "subHeading": "Accelerate your whole pipeline from dev to release. Get faster feedback on code changes, manage flaky tests, and keep master green. Industry-leading test intelligence platform."}
+]
+},
+"planData": [
+    {"planHeading": "For Casual Writing",
+    "planName": "Free"}
+]
+}
